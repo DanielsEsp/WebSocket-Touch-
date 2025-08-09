@@ -7,6 +7,8 @@ https://github.com/user-attachments/assets/20481370-a162-48de-956b-a4bc53e7d775
 
 Le module est configuré à la base pour la commande de trois équipements, mais peut être adapté à un nombre variable d'équipements.
 
+![WebSocket_Esp-Now](https://github.com/user-attachments/assets/4f6566d8-df2a-41cd-ab7f-fe667fe69716)
+
 Evolution du projet par l'adjonction d'un ESP8266 connecté aux sorties relais de l'ESP32 pour envoyer les commandes à d'autres ESP8266 placés à distance en utilisant le protocole Esp-Now.
 
 
