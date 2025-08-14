@@ -11,6 +11,11 @@ Le module est configuré à la base pour la commande de trois équipements, mais
 
 Evolution du projet par l'adjonction d'un ESP8266 connecté aux sorties relais de l'ESP32 pour envoyer les commandes à d'autres ESP8266 placés à distance en utilisant le protocole Esp-Now.
 
+Secusisation de l'état des récepteurs.
+Lors d'un redemmarage d'un récepteur l'envoi d'une requète à l'émetteur pour un revoi de l'état des équipements,
+car l'état peut avoir changé durant la mise hors circuit d'un récepteur.
+Pour des raisons de simplification le renvoi de l'état se fait pour les trois équipements.
+
 
 
 
