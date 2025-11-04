@@ -17,5 +17,5 @@ car l'état peut avoir changé durant la mise hors circuit d'un récepteur.
 Pour des raisons de simplification le renvoi de l'état se fait pour les trois équipements.
 
 
-
+Dernière évolution, création d'un module ESP32 avec 3 leds et 3 boutons poussoirs pour servire de télécommande au WebSocket.
 
