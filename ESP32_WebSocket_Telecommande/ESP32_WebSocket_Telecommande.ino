@@ -5,10 +5,10 @@
 #include <WiFi.h>
 #include <WebSocketsClient.h>
 
-const char* ssid = "Bbox-E295749E-2,4GHz";
-const char* password = "Mb&2427242711";
+const char* ssid = "SSID";
+const char* password = "PASS";
 
-const char* websocket_host = "192.168.1.118"; 
+const char* websocket_host = "WebSocket_IP"; 
 const int websocket_port = 80;
 const char* websocket_path = "/ws";
 
